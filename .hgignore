@@ -1,0 +1,10 @@
+syntax:glob
+
+*.orig
+.classpath
+.project
+target
+.idea
+*.iml
+*.bak
+*.odt*

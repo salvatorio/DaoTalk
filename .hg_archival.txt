@@ -1,0 +1,4 @@
+repo: 69af75d0e99a9146ccc14034a28f5fcebb4039d1
+node: e29eb1fb751b33421a61764fcb976edce1ab0b9b
+branch: default
+tag: daotalk1
